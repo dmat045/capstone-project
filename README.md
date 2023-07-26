@@ -10,6 +10,42 @@ npm run dev
 yarn dev
 # or
 pnpm dev
+
+Dependencies:
+
+@fontsource/raleway: Provides the Raleway font for your application.
+@remix-run/router: A router package for handling navigation in Remix applications.
+@splidejs/react-splide: A React component library for creating carousels and sliders.
+axios: A popular library for making HTTP requests from the client-side.
+bcrypt: A library for hashing passwords, useful for user authentication.
+dotenv: Allows you to load environment variables from a .env file into Node.js applications.
+eslint: A tool for identifying and reporting on patterns found in ECMAScript/JavaScript code.
+eslint-config-next: ESLint configuration specifically tailored for Next.js applications.
+formik: A form library for React that helps with form handling and validation.
+framer-motion: A library for creating animations and gestures in React applications.
+mongodb: A MongoDB driver for Node.js, enabling interaction with a MongoDB database.
+moongose: A typo of mongoose (should be mongoose), which is an Object Data Modeling (ODM) library for MongoDB and Node.js.
+next: The Next.js framework for server-side rendering and building React applications.
+node: The Node.js runtime environment (you don't need to explicitly install this).
+node-fetch: A lightweight library for making Fetch API requests in Node.js.
+react: The React library for building user interfaces.
+react-dom: Provides DOM-specific methods that can be used at the top level of your application.
+react-icons: A collection of popular icons as React components.
+react-modal-login: A library for implementing a modal login component in React applications.
+react-paginate: A pagination component for React applications.
+react-router-dom: A library for handling routing in React applications.
+remix: A full-stack web framework for building modern JavaScript applications.
+styled-components: A popular CSS-in-JS library for styling React components.
+yup: A JavaScript schema builder for value parsing and validation.
+DevDependencies:
+
+@types/node: Provides TypeScript type definitions for Node.js.
+@types/react: Provides TypeScript type definitions for React.
+autoprefixer: A PostCSS plugin for adding vendor prefixes to CSS.
+postcss: A tool for transforming styles with JavaScript plugins.
+tailwindcss: A utility-first CSS framework for rapidly building custom user interfaces.
+typescript: A superset of JavaScript that adds static typing to the language.
+
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
